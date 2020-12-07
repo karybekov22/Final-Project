@@ -20,7 +20,7 @@ nursultan.karybekov@iaau.edu.kg
 
 n.karybekov22@gmail.com
 
-0707 20 55 33
++996 (707) 20-55-33
 
 Both Telegram and WhatsApp
 
@@ -31,6 +31,15 @@ Both Telegram and WhatsApp
 ## Screenshots
 
 <img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%201.png" width="400" height="400"> <img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%202.png" width="400" height="400">
+
+## Presentation
+[Video on YouTube inside Github](https://youtu.be/ngkkwpx-gOI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ngkkwpx-gOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Alt text](https://youtu.be/ngkkwpx-gOI)](https://youtu.be/ngkkwpx-gOI)
+
+[Presentation(no PowerPoint, but Pages)](https://youtu.be/ngkkwpx-gOI)
 
 ## Requirements 
 Github [Link to a git repository (20 pts max) it should have]
@@ -48,8 +57,8 @@ Code (20 pts max) [link](https://github.com/karybekov22/Final-Project/blob/a3ae0
 - [x] run without errors (double check please)
 
 Presentation (20 pts max)
-- [ ] video on YouTube inside Github (20 pts max)
-- [ ] PowerPoint presentation (5 pts)
+- [x] video on YouTube inside Github (20 pts max)
+- [x] PowerPoint presentation (5 pts)
 
 Feedback (20 pts max)
 - [ ] video feedback (10 pts each) if you submit link to google drive, please, grant access to anyone, who has the link.
