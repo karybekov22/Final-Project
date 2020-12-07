@@ -31,7 +31,7 @@ Both Telegram and WhatsApp
 ## Screenshots
 
 <img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%201.png" width="400" height="600">      
-<img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Splash%20Screen%20Screenshot.png" width="400" height="600">
+<img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%202.png" width="400" height="600">
 
 ## Requirements 
 Github [Link to a git repository (20 pts max) it should have]
@@ -42,11 +42,11 @@ Github [Link to a git repository (20 pts max) it should have]
 - [x] team members list (also should in contributors)
 - [x] commit history (should start from more than 1 week before submission)
 
-Code (20 pts max)
-- [ ] valid
-- [ ] clean
-- [ ] no comments please
-- [ ] run without errors (double check please)
+Code (20 pts max) [link](https://github.com/karybekov22/Final-Project/blob/a3ae0ee2fae869141cc16f339572299bd0c19a7c/astar.py#L1)
+- [x] valid
+- [x] clean
+- [x] no comments please
+- [x] run without errors (double check please)
 
 Presentation (20 pts max)
 - [ ] video on YouTube inside Github (20 pts max)
@@ -57,9 +57,9 @@ Feedback (20 pts max)
 - [ ] text feedback (2 pts each)
 
 Using classes and unit tests (20 pts max)
-- [ ] Classes - max 10
-- [ ] Unit test - max 10
+- [x] Classes - max 10 [link](https://github.com/karybekov22/Final-Project/blob/a3ae0ee2fae869141cc16f339572299bd0c19a7c/astar.py#L21)
+- [x] Unit test - max 10
 
 Bonus points for:
-- [ ] mentioning AI University (All app is about Uni then +20pts, if text or logo or photo +5pts)
+- [x] mentioning AI University (All app is about Uni then +20pts, if text or logo or photo +5pts)
 - [ ] write a step-by-step tutorial how to create your app +20pts
