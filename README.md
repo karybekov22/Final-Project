@@ -30,8 +30,7 @@ Both Telegram and WhatsApp
 
 ## Screenshots
 
-<img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%201.png" width="400" height="600">      
-<img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%202.png" width="400" height="600">
+<img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%201.png" width="400" height="400"> <img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%202.png" width="400" height="400">
 
 ## Requirements 
 Github [Link to a git repository (20 pts max) it should have]
