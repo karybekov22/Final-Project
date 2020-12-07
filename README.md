@@ -30,7 +30,7 @@ Both Telegram and WhatsApp
 
 ## Screenshots
 
-<img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Icon%20Screen.png" width="400" height="600">      
+<img src="https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%201.png" width="400" height="600">      
 <img src="https://github.com/karybekov22/News-App/blob/master/Screenshots/Splash%20Screen%20Screenshot.png" width="400" height="600">
 
 ## Requirements 
