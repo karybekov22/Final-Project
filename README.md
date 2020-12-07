@@ -35,9 +35,9 @@ Both Telegram and WhatsApp
 ## Presentation
 [Video on YouTube inside Github](https://youtu.be/ngkkwpx-gOI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ngkkwpx-gOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://github.com/karybekov22/Final-Project/blob/master/Screen%20Shot%202020-12-07%20at%2011.03.51.png)](https://youtu.be/ngkkwpx-gOI)
 
-[![Alt text](https://youtu.be/ngkkwpx-gOI)](https://youtu.be/ngkkwpx-gOI)
+
 
 [Presentation(no PowerPoint, but Pages)](https://youtu.be/ngkkwpx-gOI)
 
